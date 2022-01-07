@@ -1,0 +1,12 @@
+.ang-table thead tr {
+    background: lightgray;
+}
+.ang-table thead tr th:nth-child(1) {
+    width: 10px;
+}
+.ang-table thead tr th:nth-child(2) {
+    width: 300px;
+}
+.ang-table thead tr th:nth-child(3) {
+    width: 120px;
+}
